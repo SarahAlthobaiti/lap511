@@ -28,7 +28,7 @@ public class CompactDisc {
          title = input.nextLine();
  
 	   System.out.print("Enter the song artist: " );
-	   //add code line: read artist name as input from user
+	   // add code line: read artist name as input from user
          artist = input.nextLine();
  
          System.out.println();
